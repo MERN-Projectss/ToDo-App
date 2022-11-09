@@ -13,9 +13,6 @@ const toDoSchema = new Schema({
 
     moved :{ type : Boolean , default : null},
 
-    // Date : {type: String , default :null  },
-
-    // Time : {type: String , default :null}
 
 }, { timestamps: true });
 
